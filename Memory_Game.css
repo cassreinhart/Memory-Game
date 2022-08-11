@@ -11,7 +11,8 @@
 }
 body {
   background-image: url(pawel-czerwinski-3k9PGKWt7ik-unsplash.jpg);
-  background-size:contain;
+  background-size: contain;
+  background-repeat: repeat;
 }
 section {
   margin: auto;
